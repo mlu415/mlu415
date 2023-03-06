@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Michelle, Im studying software engineering at the University of Auckland, graduating in July 2023!
+
+Im a highly ambitious, quick learner with an extroverted personality.
+          I love all things puzzle related! The tougher the problem the more
+          rewarding it is to solve
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,5 +14,5 @@
 - ⚡ Fun fact: ...
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" width="100"/>
+  <img src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" width="500"/>
 </div>
