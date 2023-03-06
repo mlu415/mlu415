@@ -9,6 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Alt Text](https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif)
-
-
+<div id="header" align="center">
+  <img src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" width="100"/>
+</div>
